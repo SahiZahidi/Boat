@@ -8,7 +8,6 @@ const images = [
     { url: img1 },
     { url: img2 },
     { url: img3 },
-    { url: img4 },
     { url: img5 },
 ];
 
